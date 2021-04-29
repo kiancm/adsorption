@@ -32,3 +32,6 @@ data/simulations/
 *.run.xml
 *.bcf
 __latexindent_temp.tex
+
+# VSCode
+.vscode/
