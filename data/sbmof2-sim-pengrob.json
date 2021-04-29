@@ -1,0 +1,4643 @@
+[
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.6508213214085722,
+        "⟨U⟩ (K)": -13381.466128798438,
+        "Total # deletion proposals": 69844,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 50309,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 3.73959,
+        "pressure (bar)": 0.00406574389850439,
+        "# samples": 100000,
+        "var(N)": 3.5861966319,
+        "⟨N⟩ (molecules/unit cell)": 0.10387750000000001,
+        "⟨U_gg, vdw⟩ (K)": -19.384338685548283,
+        "err ⟨U_gh, vdw⟩ (K)": 2396.010897161461,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.018078370039127004,
+        "Total # insertion proposals": 69863,
+        "fugacity (bar)": 0.004064747338007634,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.01867017925662906,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.01870804288392998,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 2405.238598963105,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 9.22770180164406,
+        "Total # reinsertion proposals": 9984,
+        "Fraction of translation proposals accepted": 0.1539287205072651,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.027189182885226516,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.004006410256410256,
+        "⟨U_gh, vdw⟩ (K)": -13362.08179011289,
+        "Q_st (K)": 3883.4481890209163,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.15622782026517826,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.9324467044287302,
+        "⟨U⟩ (K)": -21294.51669522675,
+        "Total # deletion proposals": 70081,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 50074,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 5.93497,
+        "pressure (bar)": 0.006098989150230248,
+        "# samples": 100000,
+        "var(N)": 4.126361099100002,
+        "⟨N⟩ (molecules/unit cell)": 0.1648602777777778,
+        "⟨U_gg, vdw⟩ (K)": -53.239149633518494,
+        "err ⟨U_gh, vdw⟩ (K)": 3344.102726935588,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.025901297345242505,
+        "Total # insertion proposals": 69734,
+        "fugacity (bar)": 0.006096746692723498,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.017180120146687405,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.017265609315398514,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3374.3614945018953,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 30.258767566307146,
+        "Total # reinsertion proposals": 10111,
+        "Fraction of translation proposals accepted": 0.15221472221112753,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.038954568855502726,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.006626446444466423,
+        "⟨U_gh, vdw⟩ (K)": -21241.27754559323,
+        "Q_st (K)": 3897.929473089959,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.2479436051650649,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.9660941199489826,
+        "⟨U⟩ (K)": -26638.879805427532,
+        "Total # deletion proposals": 69963,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 49942,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 7.44482,
+        "pressure (bar)": 0.008129634616871672,
+        "# samples": 100000,
+        "var(N)": 6.276755167600001,
+        "⟨N⟩ (molecules/unit cell)": 0.20680055555555554,
+        "⟨U_gg, vdw⟩ (K)": -93.42288569660889,
+        "err ⟨U_gh, vdw⟩ (K)": 3556.725947519017,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.026835947776360627,
+        "Total # insertion proposals": 70059,
+        "fugacity (bar)": 0.008125650469031156,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.01659448565670426,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.016614567721491884,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3598.0681966101583,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 41.3422490911412,
+        "Total # reinsertion proposals": 10036,
+        "Fraction of translation proposals accepted": 0.15331784870449722,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.0403602476556615,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.005579912315663611,
+        "⟨U_gh, vdw⟩ (K)": -26545.456919730925,
+        "Q_st (K)": 3860.7156067365318,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.3110201922848773,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.3219441488202142,
+        "⟨U⟩ (K)": -30348.299590967585,
+        "Total # deletion proposals": 69977,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 49837,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 8.43907,
+        "pressure (bar)": 0.009153043348416531,
+        "# samples": 100000,
+        "var(N)": 7.96924753510001,
+        "⟨N⟩ (molecules/unit cell)": 0.2344186111111111,
+        "⟨U_gg, vdw⟩ (K)": -140.30820245482303,
+        "err ⟨U_gh, vdw⟩ (K)": 4822.025332247295,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.0367206708005615,
+        "Total # insertion proposals": 70220,
+        "fugacity (bar)": 0.009147993052614076,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.016848393043428556,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0168612930788949,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4876.691619617706,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 54.66628737041086,
+        "Total # reinsertion proposals": 9966,
+        "Fraction of translation proposals accepted": 0.1602624556052732,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.055226496188750224,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.007124222356010436,
+        "⟨U_gh, vdw⟩ (K)": -30207.99138851276,
+        "Q_st (K)": 3960.828160840687,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.3525567003776504,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.9479444839229774,
+        "⟨U⟩ (K)": -32824.89933458463,
+        "Total # deletion proposals": 69773,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 50189,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 9.11248,
+        "pressure (bar)": 0.010129375971586349,
+        "# samples": 100000,
+        "var(N)": 5.326108249599997,
+        "⟨N⟩ (molecules/unit cell)": 0.25312444444444443,
+        "⟨U_gg, vdw⟩ (K)": -128.92860739710787,
+        "err ⟨U_gh, vdw⟩ (K)": 3402.0446589694247,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.026331791220082706,
+        "Total # insertion proposals": 70281,
+        "fugacity (bar)": 0.010123190911879026,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.01694065039485188,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.01674705823764602,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3433.9167301349908,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 31.872071165566002,
+        "Total # reinsertion proposals": 9757,
+        "Fraction of translation proposals accepted": 0.15718583753412102,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.03960201531603359,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0049195449420928565,
+        "⟨U_gh, vdw⟩ (K)": -32695.970727187523,
+        "Q_st (K)": 3879.2622414741527,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.3806895642597267,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.7733026987588345,
+        "⟨U⟩ (K)": -59791.088670906545,
+        "Total # deletion proposals": 70461,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 50622,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 16.51472915458486,
+        "pressure (bar)": 0.020293255757524043,
+        "# samples": 101737,
+        "var(N)": 17.473860821155142,
+        "⟨N⟩ (molecules/unit cell)": 0.4587424765162461,
+        "⟨U_gg, vdw⟩ (K)": -444.67255122121173,
+        "err ⟨U_gh, vdw⟩ (K)": 10054.662145474122,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.07703618607663429,
+        "Total # insertion proposals": 70879,
+        "fugacity (bar)": 0.020268435494793728,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.013936787726543762,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.013995682783334979,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 10192.475614873973,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 137.81346939985008,
+        "Total # reinsertion proposals": 10182,
+        "Fraction of translation proposals accepted": 0.15599936786377464,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.11585950212794156,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.004812414064034571,
+        "⟨U_gh, vdw⟩ (K)": -59346.41611968533,
+        "Q_st (K)": 3928.287918323618,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.6899312860742975,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.6342283892062128,
+        "⟨U⟩ (K)": -86193.62841140956,
+        "Total # deletion proposals": 80270,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 57029,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 23.671085116888865,
+        "pressure (bar)": 0.03002565121283307,
+        "# samples": 117462,
+        "var(N)": 9.291884809478915,
+        "⟨N⟩ (molecules/unit cell)": 0.6575301421358017,
+        "⟨U_gg, vdw⟩ (K)": -1003.6368422753274,
+        "err ⟨U_gh, vdw⟩ (K)": 5934.882679756236,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.04539523303350591,
+        "Total # insertion proposals": 80345,
+        "fugacity (bar)": 0.029971324249599092,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.012071757817366389,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.012122720766693634,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 6120.367703145843,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 185.4850233896072,
+        "Total # reinsertion proposals": 11346,
+        "Fraction of translation proposals accepted": 0.15208052043697065,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.0682727087892416,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0037017451084082496,
+        "⟨U_gh, vdw⟩ (K)": -85189.99156913423,
+        "Q_st (K)": 3896.7960365244776,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 0.9889003957982156,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 3.5267592989337335,
+        "⟨U⟩ (K)": -100964.1086010708,
+        "Total # deletion proposals": 88915,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 64097,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 27.68946501628276,
+        "pressure (bar)": 0.04026547138769861,
+        "# samples": 134191,
+        "var(N)": 26.555646032099958,
+        "⟨N⟩ (molecules/unit cell)": 0.7691518060078545,
+        "⟨U_gg, vdw⟩ (K)": -1323.9832303869582,
+        "err ⟨U_gh, vdw⟩ (K)": 13022.690704845185,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.0979655360814926,
+        "Total # insertion proposals": 88950,
+        "fugacity (bar)": 0.04016778815222425,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.011145476016420177,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.011129848229342328,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 13345.938191325298,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 323.24748648011246,
+        "Total # reinsertion proposals": 12689,
+        "Fraction of translation proposals accepted": 0.15214440613445246,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.14733645075325513,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.003625187169989755,
+        "⟨U_gh, vdw⟩ (K)": -99640.12537068383,
+        "Q_st (K)": 4023.689477554861,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 1.15677514481608,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.5923223258290244,
+        "⟨U⟩ (K)": -110776.97099844676,
+        "Total # deletion proposals": 104520,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 74300,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 30.447084247756727,
+        "pressure (bar)": 0.04922179766472638,
+        "# samples": 149001,
+        "var(N)": 19.431970495174028,
+        "⟨N⟩ (molecules/unit cell)": 0.8457523402154646,
+        "⟨U_gg, vdw⟩ (K)": -1449.1714942215174,
+        "err ⟨U_gh, vdw⟩ (K)": 5946.7956458407225,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.0442311757174729,
+        "Total # insertion proposals": 103780,
+        "fugacity (bar)": 0.04907584807809208,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.009538844240336778,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.009674311042590094,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 6092.177429267189,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 145.38178342646646,
+        "Total # reinsertion proposals": 14728,
+        "Fraction of translation proposals accepted": 0.1498384925975774,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.06652201073482586,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.003598587724063009,
+        "⟨U_gh, vdw⟩ (K)": -109327.79950422524,
+        "Q_st (K)": 3921.00061025684,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 1.271979443055864,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.1484268872603,
+        "⟨U⟩ (K)": -123983.20249027645,
+        "Total # deletion proposals": 115688,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 82530,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 33.96673450265873,
+        "pressure (bar)": 0.050470494439126365,
+        "# samples": 167561,
+        "var(N)": 14.86029910371667,
+        "⟨N⟩ (molecules/unit cell)": 0.9435204028516314,
+        "⟨U_gg, vdw⟩ (K)": -1812.8526775719959,
+        "err ⟨U_gh, vdw⟩ (K)": 7857.4952182011975,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.059678524646119446,
+        "Total # insertion proposals": 115446,
+        "fugacity (bar)": 0.05031704907493133,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.009672567595601964,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.009770801933371447,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 8136.489622400718,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 278.9944041995201,
+        "Total # reinsertion proposals": 16651,
+        "Fraction of translation proposals accepted": 0.15199321458863443,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.0897542376559405,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.002642483934898805,
+        "⟨U_gh, vdw⟩ (K)": -122170.34981270446,
+        "Q_st (K)": 4011.082348573413,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 1.4190189012368728,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.250015565334274,
+        "⟨U⟩ (K)": -172036.8248020165,
+        "Total # deletion proposals": 159261,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 113653,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 46.85193231633227,
+        "pressure (bar)": 0.0988707600171719,
+        "# samples": 232907,
+        "var(N)": 12.97570162279817,
+        "⟨N⟩ (molecules/unit cell)": 1.301442564342563,
+        "⟨U_gg, vdw⟩ (K)": -3418.0408275457585,
+        "err ⟨U_gh, vdw⟩ (K)": 8018.7008505798185,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.0625004323703965,
+        "Total # insertion proposals": 159462,
+        "fugacity (bar)": 0.0982823835265075,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.00616597911604222,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.006208375663167401,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 8302.605103640903,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 283.90425306108403,
+        "Total # reinsertion proposals": 22712,
+        "Fraction of translation proposals accepted": 0.14607621444220567,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.0939982798474957,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0013649172243747798,
+        "⟨U_gh, vdw⟩ (K)": -168618.78397447075,
+        "Q_st (K)": 4029.693929196948,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 1.9573202572988628,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 3.1116384832505846,
+        "⟨U⟩ (K)": -193302.34252082603,
+        "Total # deletion proposals": 182308,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 130862,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 52.56147113422623,
+        "pressure (bar)": 0.15118083571758067,
+        "# samples": 260724,
+        "var(N)": 20.590585454855955,
+        "⟨N⟩ (molecules/unit cell)": 1.4600408648396175,
+        "⟨U_gg, vdw⟩ (K)": -4274.573081027336,
+        "err ⟨U_gh, vdw⟩ (K)": 11294.361662867761,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.08643440231251624,
+        "Total # insertion proposals": 181929,
+        "fugacity (bar)": 0.14980639568748946,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.004541764486473441,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.004589702576279758,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 11820.998606828385,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 526.6369439606242,
+        "Total # reinsertion proposals": 26025,
+        "Fraction of translation proposals accepted": 0.14239427794164847,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.12999406290301457,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0009221902017291067,
+        "⟨U_gh, vdw⟩ (K)": -189027.7694397987,
+        "Q_st (K)": 4103.3309016869935,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.1958460861300972,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.374692041208116,
+        "⟨U⟩ (K)": -190352.90503047395,
+        "Total # deletion proposals": 180987,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 128979,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 51.8556218288857,
+        "pressure (bar)": 0.15563913383160327,
+        "# samples": 258190,
+        "var(N)": 11.150978019735248,
+        "⟨N⟩ (molecules/unit cell)": 1.4404339396912695,
+        "⟨U_gg, vdw⟩ (K)": -4077.3775603947856,
+        "err ⟨U_gh, vdw⟩ (K)": 4891.508840632942,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.03818589003355878,
+        "Total # insertion proposals": 181547,
+        "fugacity (bar)": 0.15418254505999993,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.004701995170923879,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.004715032470930393,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 5090.497308694861,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 198.9884680619186,
+        "Total # reinsertion proposals": 25827,
+        "Fraction of translation proposals accepted": 0.14455066328627142,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.057430130344190825,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.001316451775273938,
+        "⟨U_gh, vdw⟩ (K)": -186275.52747007916,
+        "Q_st (K)": 3993.5350228075663,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.166358014333713,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.585657277573282,
+        "⟨U⟩ (K)": -212477.99433927043,
+        "Total # deletion proposals": 199275,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 142785,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 57.61006747177645,
+        "pressure (bar)": 0.20518037175593484,
+        "# samples": 287083,
+        "var(N)": 10.934610488928683,
+        "⟨N⟩ (molecules/unit cell)": 1.6002796519937903,
+        "⟨U_gg, vdw⟩ (K)": -5199.964898307057,
+        "err ⟨U_gh, vdw⟩ (K)": 6097.235781295578,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.04404603548814672,
+        "Total # insertion proposals": 199311,
+        "fugacity (bar)": 0.2026510440590812,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.00345251536820976,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0034619263362283066,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 6411.189114702101,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 313.95333340652263,
+        "Total # reinsertion proposals": 28391,
+        "Fraction of translation proposals accepted": 0.14212977553664602,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.06624356685168442,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0008805607410799197,
+        "⟨U_gh, vdw⟩ (K)": -207278.02944096338,
+        "Q_st (K)": 4189.379250392742,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.406759903210107,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.3204059480667936,
+        "⟨U⟩ (K)": -214976.7362695687,
+        "Total # deletion proposals": 202950,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 144954,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 58.32282457316759,
+        "pressure (bar)": 0.249754020334319,
+        "# samples": 290805,
+        "var(N)": 9.08963928369758,
+        "⟨N⟩ (molecules/unit cell)": 1.6200784603657663,
+        "⟨U_gg, vdw⟩ (K)": -5299.679953784953,
+        "err ⟨U_gh, vdw⟩ (K)": 8106.640533164668,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.06445572077963316,
+        "Total # insertion proposals": 203543,
+        "fugacity (bar)": 0.2460092089513873,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0030598669623059867,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.003065691278992645,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 8463.435748668011,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 356.79521550334346,
+        "Total # reinsertion proposals": 29203,
+        "Fraction of translation proposals accepted": 0.14109303641155124,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.09693895945727461,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.000890319487723864,
+        "⟨U_gh, vdw⟩ (K)": -209677.05631578376,
+        "Q_st (K)": 4026.7043256981924,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.436536560097323,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.7140073402490403,
+        "⟨U⟩ (K)": -223777.56285736818,
+        "Total # deletion proposals": 209777,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 150100,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 60.58090411058543,
+        "pressure (bar)": 0.25287776210499935,
+        "# samples": 302463,
+        "var(N)": 5.442159821075165,
+        "⟨N⟩ (molecules/unit cell)": 1.6828028919607063,
+        "⟨U_gg, vdw⟩ (K)": -5752.198609444788,
+        "err ⟨U_gh, vdw⟩ (K)": 2375.4236761423263,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.01983353722914001,
+        "Total # insertion proposals": 210767,
+        "fugacity (bar)": 0.24903889344070365,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.002812510427739933,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.002785065973325995,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 2449.86104197702,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 74.43736583469335,
+        "Total # reinsertion proposals": 29828,
+        "Fraction of translation proposals accepted": 0.13974017321785476,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.029828887771238304,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0007040364757945555,
+        "⟨U_gh, vdw⟩ (K)": -218025.3642479234,
+        "Q_st (K)": 3791.8347044198895,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.530871726282972,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.3489278591685883,
+        "⟨U⟩ (K)": -219709.0786084295,
+        "Total # deletion proposals": 205994,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 147100,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 59.650257909504845,
+        "pressure (bar)": 0.30092445691156194,
+        "# samples": 297585,
+        "var(N)": 8.156424358437107,
+        "⟨N⟩ (molecules/unit cell)": 1.6569516085973568,
+        "⟨U_gg, vdw⟩ (K)": -5464.619034286461,
+        "err ⟨U_gh, vdw⟩ (K)": 4683.394777724423,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.037470218310238564,
+        "Total # insertion proposals": 206911,
+        "fugacity (bar)": 0.2954926586797058,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.00288843364369836,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0028852985099873858,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4928.505826261012,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 245.11104853658864,
+        "Total # reinsertion proposals": 29379,
+        "Fraction of translation proposals accepted": 0.1413732154996601,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.05635378721541183,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0008509479560230097,
+        "⟨U_gh, vdw⟩ (K)": -214244.45957414302,
+        "Q_st (K)": 4022.146951158661,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.491992376559369,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.7012623234850546,
+        "⟨U⟩ (K)": -234568.15849183942,
+        "Total # deletion proposals": 219886,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 156307,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 63.673832652958374,
+        "pressure (bar)": 0.3514416141598961,
+        "# samples": 317472,
+        "var(N)": 11.197663722725338,
+        "⟨N⟩ (molecules/unit cell)": 1.768717573693288,
+        "⟨U_gg, vdw⟩ (K)": -6284.232217089499,
+        "err ⟨U_gh, vdw⟩ (K)": 6006.129981956186,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.04725728676347374,
+        "Total # insertion proposals": 218794,
+        "fugacity (bar)": 0.3440393535214241,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.002137471235094549,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.002161850873424317,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 6343.428272136351,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 337.29829018016414,
+        "Total # reinsertion proposals": 31311,
+        "Fraction of translation proposals accepted": 0.14048635057930867,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.07107316697748753,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0007026284692280668,
+        "⟨U_gh, vdw⟩ (K)": -228283.92627474992,
+        "Q_st (K)": 4020.1793100236,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.6600841491450717,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.7799367867097136,
+        "⟨U⟩ (K)": -226112.79393271066,
+        "Total # deletion proposals": 214420,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 153056,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 61.41117134920609,
+        "pressure (bar)": 0.3531854700011466,
+        "# samples": 305639,
+        "var(N)": 16.93587564592599,
+        "⟨N⟩ (molecules/unit cell)": 1.7058658708112804,
+        "⟨U_gg, vdw⟩ (K)": -5871.797362254953,
+        "err ⟨U_gh, vdw⟩ (K)": 10003.115326854262,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.07722046629749205,
+        "Total # insertion proposals": 214045,
+        "fugacity (bar)": 0.3457097869526815,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.002308553306594534,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.00231726973300007,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 10522.454959308789,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 519.3396324545271,
+        "Total # reinsertion proposals": 31031,
+        "Fraction of translation proposals accepted": 0.14020358561572235,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.1161366525909638,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0007089684509039348,
+        "⟨U_gh, vdw⟩ (K)": -220240.9965704557,
+        "Q_st (K)": 4103.738448703856,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.5655575717706576,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.37294145919574,
+        "⟨U⟩ (K)": -232674.25485824925,
+        "Total # deletion proposals": 220423,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 157692,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 63.16833397277561,
+        "pressure (bar)": 0.4052198351602934,
+        "# samples": 315379,
+        "var(N)": 5.774056984515028,
+        "⟨N⟩ (molecules/unit cell)": 1.7546759436882116,
+        "⟨U_gg, vdw⟩ (K)": -6142.897789193307,
+        "err ⟨U_gh, vdw⟩ (K)": 4987.700349293096,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.038137262755437225,
+        "Total # insertion proposals": 221490,
+        "fugacity (bar)": 0.3953877472280509,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.002191241385880784,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0021716556052191974,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 5304.43286567439,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 316.7325163812938,
+        "Total # reinsertion proposals": 31592,
+        "Fraction of translation proposals accepted": 0.13698221850188977,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.05735699676217009,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0005381109141554824,
+        "⟨U_gh, vdw⟩ (K)": -226531.35706905593,
+        "Q_st (K)": 3865.700333562487,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.638966070170672,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.4427519544540715,
+        "⟨U⟩ (K)": -232190.23242062484,
+        "Total # deletion proposals": 219573,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 156938,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 62.90034328149082,
+        "pressure (bar)": 0.4569088955313027,
+        "# samples": 314028,
+        "var(N)": 5.898398368917697,
+        "⟨N⟩ (molecules/unit cell)": 1.7472317578191894,
+        "⟨U_gg, vdw⟩ (K)": -6124.027535709474,
+        "err ⟨U_gh, vdw⟩ (K)": 5647.04160067578,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.04007644317927976,
+        "Total # insertion proposals": 218074,
+        "fugacity (bar)": 0.44441936343920585,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.002176952539702058,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.002205673303557508,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 5985.710881877278,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 338.6692812014982,
+        "Total # reinsertion proposals": 31362,
+        "Fraction of translation proposals accepted": 0.13959652856542074,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.06027345057283962,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.000733371596199222,
+        "⟨U_gh, vdw⟩ (K)": -226066.20488491538,
+        "Q_st (K)": 4174.542038373935,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.627770296957356,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.9539937936954588,
+        "⟨U⟩ (K)": -232845.0778974469,
+        "Total # deletion proposals": 222404,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 158911,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 63.04679473714362,
+        "pressure (bar)": 0.4591007143409478,
+        "# samples": 314202,
+        "var(N)": 13.014668833997803,
+        "⟨N⟩ (molecules/unit cell)": 1.751299853809545,
+        "⟨U_gg, vdw⟩ (K)": -6153.921700373569,
+        "err ⟨U_gh, vdw⟩ (K)": 7398.598134940782,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.05427760538042941,
+        "Total # insertion proposals": 222281,
+        "fugacity (bar)": 0.446491532885448,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0020008632938256507,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.002010968098937831,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 7739.411667216634,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 340.813532275852,
+        "Total # reinsertion proposals": 31881,
+        "Fraction of translation proposals accepted": 0.13750464096255136,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.08163145991959757,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0005332329600702613,
+        "⟨U_gh, vdw⟩ (K)": -226691.15619707332,
+        "Q_st (K)": 4115.9220455976065,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.6338885590372367,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.5469492821609157,
+        "⟨U⟩ (K)": -242239.8115247161,
+        "Total # deletion proposals": 227325,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 161878,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 65.57628257192235,
+        "pressure (bar)": 0.5084299697891641,
+        "# samples": 327506,
+        "var(N)": 4.930647782041888,
+        "⟨N⟩ (molecules/unit cell)": 1.8215634047756208,
+        "⟨U_gg, vdw⟩ (K)": -6798.695565993739,
+        "err ⟨U_gh, vdw⟩ (K)": 5703.325058737321,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.042970813393358766,
+        "Total # insertion proposals": 227782,
+        "fugacity (bar)": 0.49297835239598237,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0017639942813152975,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0017692354970981026,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 6092.446931476566,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 389.1218727392442,
+        "Total # reinsertion proposals": 32294,
+        "Fraction of translation proposals accepted": 0.13815342418364449,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.064626473600791,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00034062054870873847,
+        "⟨U_gh, vdw⟩ (K)": -235441.11595872234,
+        "Q_st (K)": 4141.3544249113365,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7395622748228616,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.84766886456589,
+        "⟨U⟩ (K)": -238085.6077452154,
+        "Total # deletion proposals": 223937,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 159490,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 64.73045361859842,
+        "pressure (bar)": 0.5585644920019945,
+        "# samples": 322694,
+        "var(N)": 12.083911030881609,
+        "⟨N⟩ (molecules/unit cell)": 1.7980681560721783,
+        "⟨U_gg, vdw⟩ (K)": -6366.902858530027,
+        "err ⟨U_gh, vdw⟩ (K)": 10124.514050937301,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.07910191290460805,
+        "Total # insertion proposals": 222957,
+        "fugacity (bar)": 0.539931010175193,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0018621308671635326,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0018748009705907417,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 10582.196858529509,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 457.6828075922082,
+        "Total # reinsertion proposals": 32034,
+        "Fraction of translation proposals accepted": 0.13775158317135872,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.11896627693093202,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00031216832115876883,
+        "⟨U_gh, vdw⟩ (K)": -231718.7048866854,
+        "Q_st (K)": 4011.496446328534,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7042263118710475,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.4868350576548963,
+        "⟨U⟩ (K)": -243129.59883878301,
+        "Total # deletion proposals": 231121,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 165090,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 65.83964286691744,
+        "pressure (bar)": 0.5599057144609378,
+        "# samples": 328841,
+        "var(N)": 4.624271449297339,
+        "⟨N⟩ (molecules/unit cell)": 1.8288789685254845,
+        "⟨U_gg, vdw⟩ (K)": -6749.515473249831,
+        "err ⟨U_gh, vdw⟩ (K)": 1449.1108339025982,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.013523196045969342,
+        "Total # insertion proposals": 229575,
+        "fugacity (bar)": 0.5411830595679271,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0016311802043085656,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.001633453119895459,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 1530.2557633671825,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 81.14492946458428,
+        "Total # reinsertion proposals": 32849,
+        "Fraction of translation proposals accepted": 0.13585317099763766,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.020338373962412146,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00045663490517215135,
+        "⟨U_gh, vdw⟩ (K)": -236380.08336553318,
+        "Q_st (K)": 3877.122148931993,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7505646052471806,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.9892442276414045,
+        "⟨U⟩ (K)": -244527.29852019725,
+        "Total # deletion proposals": 230824,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 165291,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 66.22337132319599,
+        "pressure (bar)": 0.6110934829387438,
+        "# samples": 330790,
+        "var(N)": 4.3938399477010535,
+        "⟨N⟩ (molecules/unit cell)": 1.8395380923109999,
+        "⟨U_gg, vdw⟩ (K)": -6770.829222279934,
+        "err ⟨U_gh, vdw⟩ (K)": 3507.1734282236957,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.027479006323372347,
+        "Total # insertion proposals": 230999,
+        "fugacity (bar)": 0.588810058907716,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0016159498145773402,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0016017385356646566,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3705.9164619444646,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 198.7430337207688,
+        "Total # reinsertion proposals": 32950,
+        "Fraction of translation proposals accepted": 0.13524027321511758,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.041327383321253505,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0004552352048558422,
+        "⟨U_gh, vdw⟩ (K)": -237756.46929791733,
+        "Q_st (K)": 3965.270456472687,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7665955231547903,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.5450404158022588,
+        "⟨U⟩ (K)": -242094.14629387407,
+        "Total # deletion proposals": 229993,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 163731,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 65.49480681981576,
+        "pressure (bar)": 0.6583455767656541,
+        "# samples": 326871,
+        "var(N)": 7.630156650718163,
+        "⟨N⟩ (molecules/unit cell)": 1.8193001894393268,
+        "⟨U_gg, vdw⟩ (K)": -6611.384515685837,
+        "err ⟨U_gh, vdw⟩ (K)": 5342.73144440917,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.04291778932784052,
+        "Total # insertion proposals": 229797,
+        "fugacity (bar)": 0.6325031790943536,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0013869987347441008,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0013881817430166626,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 5724.188917827029,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 381.45747341785983,
+        "Total # reinsertion proposals": 32691,
+        "Fraction of translation proposals accepted": 0.13517293609640202,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.06454672741728146,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.000336484047597198,
+        "⟨U_gh, vdw⟩ (K)": -235482.76177818823,
+        "Q_st (K)": 4008.7354108010786,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7361584847934526,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.241007410659222,
+        "⟨U⟩ (K)": -243216.3362487897,
+        "Total # deletion proposals": 230653,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 164360,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 65.94433356723867,
+        "pressure (bar)": 0.6621572616663689,
+        "# samples": 329193,
+        "var(N)": 6.912513062609833,
+        "⟨N⟩ (molecules/unit cell)": 1.8317870435344075,
+        "⟨U_gg, vdw⟩ (K)": -6617.038182989413,
+        "err ⟨U_gh, vdw⟩ (K)": 4361.651447967526,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.03447242807386727,
+        "Total # insertion proposals": 230257,
+        "fugacity (bar)": 0.636016410293306,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0015130954290644388,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.001511354703657218,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4610.383319417431,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 248.73187144990507,
+        "Total # reinsertion proposals": 32913,
+        "Fraction of translation proposals accepted": 0.13682161109759067,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.051845224396317016,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0003645975754261234,
+        "⟨U_gh, vdw⟩ (K)": -236599.2980658003,
+        "Q_st (K)": 4012.895516157924,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.754938239766799,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.2468270222014413,
+        "⟨U⟩ (K)": -245987.24931846946,
+        "Total # deletion proposals": 231353,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 165556,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 66.59075137556752,
+        "pressure (bar)": 0.7132357058483165,
+        "# samples": 332590,
+        "var(N)": 4.730071112273436,
+        "⟨N⟩ (molecules/unit cell)": 1.8497430937657644,
+        "⟨U_gg, vdw⟩ (K)": -6842.020328947939,
+        "err ⟨U_gh, vdw⟩ (K)": 4480.003823577235,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.034634083950040036,
+        "Total # insertion proposals": 230413,
+        "fugacity (bar)": 0.6829320352436214,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0014393589017648355,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0014539110206455365,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4705.163950856422,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 225.16012727918715,
+        "Total # reinsertion proposals": 33390,
+        "Fraction of translation proposals accepted": 0.13685399502283216,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.05208834870300064,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00020964360587002095,
+        "⟨U_gh, vdw⟩ (K)": -239145.22898952154,
+        "Q_st (K)": 4077.5654595670053,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7819434583003306,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.8675666563522136,
+        "⟨U⟩ (K)": -244437.35682069618,
+        "Total # deletion proposals": 232406,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 165634,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 66.23300454340722,
+        "pressure (bar)": 0.7594038892784863,
+        "# samples": 330809,
+        "var(N)": 4.5769190372520825,
+        "⟨N⟩ (molecules/unit cell)": 1.8398056817613115,
+        "⟨U_gg, vdw⟩ (K)": -6779.8958036438335,
+        "err ⟨U_gh, vdw⟩ (K)": 3151.3260817838327,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.02409907378756149,
+        "Total # insertion proposals": 232013,
+        "fugacity (bar)": 0.7250763563333037,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0014070204727933014,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0014050936800955119,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3542.1546845925855,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 390.82860280875263,
+        "Total # reinsertion proposals": 33215,
+        "Fraction of translation proposals accepted": 0.13622806911624424,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.03624409297721282,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00027096191479753125,
+        "⟨U_gh, vdw⟩ (K)": -237657.46101705235,
+        "Q_st (K)": 4055.492878611526,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.7669979675392637,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.0731621123940285,
+        "⟨U⟩ (K)": -247936.6706869908,
+        "Total # deletion proposals": 235268,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 167602,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 67.12338088308962,
+        "pressure (bar)": 0.764264820774816,
+        "# samples": 335368,
+        "var(N)": 3.340255318990785,
+        "⟨N⟩ (molecules/unit cell)": 1.8645383578636006,
+        "⟨U_gg, vdw⟩ (K)": -6911.79352138354,
+        "err ⟨U_gh, vdw⟩ (K)": 3657.7012886878583,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.0298100586776119,
+        "Total # insertion proposals": 234693,
+        "fugacity (bar)": 0.7294992171564668,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0012241358790825781,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0012271350232005214,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3931.842908674766,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 274.1416199869077,
+        "Total # reinsertion proposals": 33336,
+        "Fraction of translation proposals accepted": 0.1386737628429255,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.044833197652815765,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0002999760019198464,
+        "⟨U_gh, vdw⟩ (K)": -241024.87716560726,
+        "Q_st (K)": 3867.277441068183,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.8041949743673573,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.5894310130825517,
+        "⟨U⟩ (K)": -246517.275567003,
+        "Total # deletion proposals": 232422,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 165686,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 66.79498102370088,
+        "pressure (bar)": 0.8150872861176809,
+        "# samples": 333574,
+        "var(N)": 5.308788926085072,
+        "⟨N⟩ (molecules/unit cell)": 1.8554161395472468,
+        "⟨U_gg, vdw⟩ (K)": -6999.2657452636095,
+        "err ⟨U_gh, vdw⟩ (K)": 5469.584543248179,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.04415086147451533,
+        "Total # insertion proposals": 232177,
+        "fugacity (bar)": 0.7755774102788155,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.001213310271833131,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0012447400043932,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 5850.820761789604,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 381.23621854142476,
+        "Total # reinsertion proposals": 33021,
+        "Fraction of translation proposals accepted": 0.13881076252670715,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.066401221159475,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0003936888646618818,
+        "⟨U_gh, vdw⟩ (K)": -239518.0098217394,
+        "Q_st (K)": 3964.8722250878945,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.790475503995554,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 2.2008509033733468,
+        "⟨U⟩ (K)": -249838.70394378447,
+        "Total # deletion proposals": 236090,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 168664,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 67.65509746614669,
+        "pressure (bar)": 0.8596089389943764,
+        "# samples": 337707,
+        "var(N)": 7.707222925396309,
+        "⟨N⟩ (molecules/unit cell)": 1.879308262948519,
+        "⟨U_gg, vdw⟩ (K)": -6947.309233768713,
+        "err ⟨U_gh, vdw⟩ (K)": 8390.699791746187,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.0611347473159263,
+        "Total # insertion proposals": 235281,
+        "fugacity (bar)": 0.8156971978199359,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.001202931085602948,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0011900663461988006,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 8831.373151422036,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 440.67335967584944,
+        "Total # reinsertion proposals": 33683,
+        "Fraction of translation proposals accepted": 0.1353104396907461,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.09194434132155302,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0003265742362616156,
+        "⟨U_gh, vdw⟩ (K)": -242891.39471001574,
+        "Q_st (K)": 4112.957050651012,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.8264083514407408,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.925722635827819,
+        "⟨U⟩ (K)": -250197.73202325107,
+        "Total # deletion proposals": 234948,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 168738,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 67.66690521957712,
+        "pressure (bar)": 0.8660044103020818,
+        "# samples": 338150,
+        "var(N)": 2.5051708895816773,
+        "⟨N⟩ (molecules/unit cell)": 1.8796362560993645,
+        "⟨U_gg, vdw⟩ (K)": -7157.693971332737,
+        "err ⟨U_gh, vdw⟩ (K)": 3682.008702084295,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.02571451766188386,
+        "Total # insertion proposals": 236532,
+        "fugacity (bar)": 0.8214415240057894,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0012811345489214634,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.001276782845450087,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4069.036582046018,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 387.0278799617231,
+        "Total # reinsertion proposals": 33767,
+        "Fraction of translation proposals accepted": 0.13446882148656497,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.038673659295675615,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0003257618384813575,
+        "⟨U_gh, vdw⟩ (K)": -243040.03805191832,
+        "Q_st (K)": 3984.441475674191,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.8269016406999024,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.9899522689401918,
+        "⟨U⟩ (K)": -247653.47230869706,
+        "Total # deletion proposals": 236859,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 169533,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 67.06461037992061,
+        "pressure (bar)": 0.9168962032471982,
+        "# samples": 335070,
+        "var(N)": 3.5017347118073303,
+        "⟨N⟩ (molecules/unit cell)": 1.8629058438866837,
+        "⟨U_gg, vdw⟩ (K)": -6927.732108218929,
+        "err ⟨U_gh, vdw⟩ (K)": 3858.326430049344,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.02749867413722755,
+        "Total # insertion proposals": 237809,
+        "fugacity (bar)": 0.866983592295703,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0011863598174441333,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0011774154889007565,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4039.4629005839633,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 181.13647053461975,
+        "Total # reinsertion proposals": 33966,
+        "Fraction of translation proposals accepted": 0.13459916358467083,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.04135696296735569,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00020608844138255902,
+        "⟨U_gh, vdw⟩ (K)": -240725.74020047815,
+        "Q_st (K)": 4208.387779002084,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.801739735262006,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.1795562453086115,
+        "⟨U⟩ (K)": -251352.1191247872,
+        "Total # deletion proposals": 238180,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 170339,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 68.07717578962539,
+        "pressure (bar)": 0.9569342267705869,
+        "# samples": 340003,
+        "var(N)": 5.179121676221257,
+        "⟨N⟩ (molecules/unit cell)": 1.8910326608229273,
+        "⟨U_gg, vdw⟩ (K)": -7137.651340613696,
+        "err ⟨U_gh, vdw⟩ (K)": 4003.646828555875,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.03276545125857254,
+        "Total # insertion proposals": 238199,
+        "fugacity (bar)": 0.902603051639129,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0010244353010328323,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0010285517571442366,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 4112.907789830048,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 109.26096127417394,
+        "Total # reinsertion proposals": 34057,
+        "Fraction of translation proposals accepted": 0.13388595682726798,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.04927799600617774,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0002936253927239628,
+        "⟨U_gh, vdw⟩ (K)": -244214.4677841735,
+        "Q_st (K)": 4121.026010930404,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.844041401175674,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.3393211475147655,
+        "⟨U⟩ (K)": -253840.53948516058,
+        "Total # deletion proposals": 237290,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 170070,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 68.64062850860438,
+        "pressure (bar)": 0.9678599902408068,
+        "# samples": 342907,
+        "var(N)": 4.052519463712997,
+        "⟨N⟩ (molecules/unit cell)": 1.9066841252390105,
+        "⟨U_gg, vdw⟩ (K)": -7409.323482513603,
+        "err ⟨U_gh, vdw⟩ (K)": 4786.503702488464,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.03720336520874348,
+        "Total # insertion proposals": 238681,
+        "fugacity (bar)": 0.9122910228978552,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0010282776349614395,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.001026474667024187,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 5019.929946624693,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 233.4262441362285,
+        "Total # reinsertion proposals": 34264,
+        "Fraction of translation proposals accepted": 0.13555594755100842,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.05595245027163113,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.0003502218071445249,
+        "⟨U_gh, vdw⟩ (K)": -246431.21600264698,
+        "Q_st (K)": 3970.4101465267695,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.867580610048458,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 1.8883412123975056,
+        "⟨U⟩ (K)": -251770.31083370914,
+        "Total # deletion proposals": 237872,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 170193,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 68.0885222563101,
+        "pressure (bar)": 1.0017131917094853,
+        "# samples": 339971,
+        "var(N)": 6.309746780450041,
+        "⟨N⟩ (molecules/unit cell)": 1.8913478404530584,
+        "⟨U_gg, vdw⟩ (K)": -7182.584481192749,
+        "err ⟨U_gh, vdw⟩ (K)": 7083.411942131936,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.05245392256659738,
+        "Total # insertion proposals": 238760,
+        "fugacity (bar)": 0.9422218624892509,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.001139268177843546,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0011015245434746188,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 7574.857421450677,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 491.4454793187414,
+        "Total # reinsertion proposals": 33937,
+        "Fraction of translation proposals accepted": 0.13379516196318297,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.07888871013393615,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00017679818487196866,
+        "⟨U_gh, vdw⟩ (K)": -244587.7263525164,
+        "Q_st (K)": 4142.62376945403,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.8445154193856554,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    },
+    {
+        "# sample cycles": 5000,
+        "err ⟨N⟩ (molecules)": 0.9143583212273475,
+        "⟨U⟩ (K)": -253005.66802598114,
+        "Total # deletion proposals": 238041,
+        "⟨U_gh, electro⟩ (K)": 0.0,
+        "Total # translation proposals": 170457,
+        "repfactors": [
+            6,
+            3,
+            2
+        ],
+        "⟨N⟩ (molecules)": 68.4417062193485,
+        "pressure (bar)": 1.013477552522325,
+        "# samples": 341949,
+        "var(N)": 3.497402393115408,
+        "⟨N⟩ (molecules/unit cell)": 1.901158506093014,
+        "⟨U_gg, vdw⟩ (K)": -7297.1582340241075,
+        "err ⟨U_gh, vdw⟩ (K)": 3074.0757454547893,
+        "err ⟨U_gh, electro⟩ (K)": 0.0,
+        "err ⟨U_gg, electro⟩ (K)": 0.0,
+        "err ⟨N⟩ (molecules/unit cell)": 0.02539884225631521,
+        "Total # insertion proposals": 237535,
+        "fugacity (bar)": 0.952592353662068,
+        "Total # rotation proposals": 0,
+        "Fraction of deletion proposals accepted": 0.0009872248898299032,
+        "num snapshots": 5000,
+        "Fraction of insertion proposals accepted": 0.0010230071357905152,
+        "temperature (K)": 298.0,
+        "err ⟨U⟩ (K)": 3336.826803615106,
+        "Fraction of rotation proposals accepted": null,
+        "err ⟨U_gg, vdw⟩ (K)": 262.7510581603168,
+        "Total # reinsertion proposals": 33937,
+        "Fraction of translation proposals accepted": 0.1345500624791003,
+        "xtal": "SBMOF-2.cssr",
+        "err ⟨N⟩ (mmol/g)": 0.03819889545823905,
+        "adsorbate": "Xe",
+        "forcefield": "UFF",
+        "⟨U_gg, electro⟩ (K)": 0.0,
+        "Fraction of reinsertion proposals accepted": 0.00026519727730795297,
+        "⟨U_gh, vdw⟩ (K)": -245708.50979195704,
+        "Q_st (K)": 4038.676149577396,
+        "# burn cycles": 5000,
+        "⟨N⟩ (mmol/g)": 2.8592702884215946,
+        "density grid": {
+            "box": {
+                "a": 30.696600000000004,
+                "b": 32.4717,
+                "c": 30.5196,
+                "α": 1.448448746230094,
+                "β": 1.49897602807533,
+                "γ": 1.4494959437812907,
+                "Ω": 29921.599176981174,
+                "f_to_c": [
+                    [
+                        30.696600000000004,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        3.929177570037792,
+                        32.23310199954562,
+                        0.0
+                    ],
+                    [
+                        2.190042891605586,
+                        3.4852980015644066,
+                        30.240740634667322
+                    ]
+                ],
+                "c_to_f": [
+                    [
+                        0.032576897767179425,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.003971085873460767,
+                        0.031024007556396428,
+                        0.0
+                    ],
+                    [
+                        -0.0019015534844684975,
+                        -0.0035755708778134896,
+                        0.033067973171715975
+                    ]
+                ],
+                "reciprocal_lattice": [
+                    [
+                        0.20468668540423324,
+                        0.0,
+                        0.0
+                    ],
+                    [
+                        -0.024951068413677106,
+                        0.1949295884481785,
+                        0.0
+                    ],
+                    [
+                        -0.011947812914428606,
+                        -0.022465974404256937,
+                        0.20777220317073453
+                    ]
+                ]
+            },
+            "n_pts": [
+                0,
+                0,
+                0
+            ],
+            "data": [],
+            "units": "inverse_A3",
+            "origin": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        }
+    }
+]
