@@ -31,6 +31,7 @@ data/simulations/
 *.synctex.gz
 *.run.xml
 *.bcf
+*.out
 __latexindent_temp.tex
 
 # VSCode
