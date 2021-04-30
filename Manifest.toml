@@ -280,6 +280,11 @@ git-tree-sha1 = "df381151e871f41ee86cee4f5f6fd598b8a68826"
 uuid = "c1c5ebd0-6772-5130-a774-d5fcae4a789d"
 version = "3.100.0+3"
 
+[[LaTeXStrings]]
+git-tree-sha1 = "c7f1c695e06c01b95a67f0cd1d34994f3e7db104"
+uuid = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+version = "1.2.1"
+
 [[LibCURL]]
 deps = ["LibCURL_jll", "MozillaCACerts_jll"]
 uuid = "b27032c2-a3e7-50c8-80cd-2d36dbcbfd21"
@@ -463,7 +468,7 @@ version = "1.2.1"
 
 [[PorousMaterials]]
 deps = ["CSV", "DataFrames", "Distributed", "FileIO", "JLD2", "LightGraphs", "LinearAlgebra", "OffsetArrays", "Optim", "Polynomials", "Printf", "ProgressMeter", "PyCall", "Random", "Roots", "SpecialFunctions", "Statistics", "StatsBase"]
-path = "/home/sync/.julia/dev/PorousMaterials"
+path = "/home/kian/.julia/dev/PorousMaterials"
 uuid = "68953c7c-a3c7-538e-83d3-73516288599e"
 version = "0.3.0"
 
