@@ -70,12 +70,12 @@ Energy fluctuations are simulated by displacement moves similar to canonical Mon
 
 \section{Methods, Results, and Discussion}
 \subsection{Langmuir Isotherm Fitting}
-Using \autoref{eq:langmuir}, the langmuir parameter, $\lambda$, was obtained by a linearized curve fit. The linearization of \autoref{eq:langmuir} can be derived by taking the natural logarithm of the equation:
+Using \autoref{eq:langmuir}, the langmuir parameter, $\lambda$, was obtained by a linearized curve fit. The linearization of \autoref{eq:langmuir} can be derived by taking the inverse of the equation:
 \begin{equation}
-    \ln\theta = \ln\left(\frac{P}{P+\lambda}\right) = \ln P - \ln(P + \lambda)
+    \frac{1}{\theta} = \frac{P+\lambda}{P} = \frac{\lambda}{P} + 1
     \label{eq:linear-langmuir}
 \end{equation}
-If an adsorption process can be modeled by the Langmuir isotherm, a plot of $\ln\theta$ vs. $\ln P$ should yield a straight line with a slope of 1 and an intercept of $-\ln(P+\lambda)$, which can be used to calculate the langmuir parameter.
+If an adsorption process can be modeled by the Langmuir isotherm, a plot of $\frac{1}{\theta}$ vs. $\frac{1}{P}$ should yield a straight line with a slope of $\lambda$ and an intercept of 1.
 
 The adsorption data reported from the xenon\textendash SBMOF-1 adsorption experiment has units of percent by mass, so the following calculation was performed to convert the adsorption to fractional coverage:
 \begin{equation}
@@ -91,7 +91,7 @@ The linearized converted experimental data is plotted below.
     \caption{Linearized experimental data for the adsorption of xenon gas on SBMOF-1.}
     \label{fig:sbmof1-langmuir}
 \end{figure}
-Notice that the data in \autoref{fig:sbmof1-langmuir} is not linear, so this process cannot be modeled by a Langmuir isotherm.
+Notice that the data in \autoref{fig:sbmof1-langmuir} is not linear, and even neglecting the flat region of the curve, the intercept would not be equal to 1, so this process cannot be modeled by a Langmuir isotherm.
 This is due to the disagreement between the physical phenomena and assumptions of Langmuir adsorption.
 For instance, there are interactions between adsorbed xenon molecules, which requires a forcefield model to correctly account for.
 Also, SBMOF-1 is a porous metal-organic framework, which deviates greatly from an idealized, smooth, two-dimensional surface.
